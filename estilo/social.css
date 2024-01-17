@@ -21,3 +21,6 @@ a{
     text-align: center;
     text-decoration: none;
 }
+a:hover{
+    background-color: red;
+}
